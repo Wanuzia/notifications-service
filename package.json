@@ -5,7 +5,7 @@
   "author": "",
   "private": true,
   "license": "UNLICENSED",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
@@ -47,6 +47,7 @@
     "eslint": "^8.0.1",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-typescript": "^0.14.0",
     "jest": "28.1.3",
     "prettier": "^2.3.2",
     "prisma": "^4.7.1",

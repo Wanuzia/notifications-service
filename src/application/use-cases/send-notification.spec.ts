@@ -17,4 +17,4 @@ describe('Send notification', () => {
     expect(notificationRepository.notifications[0]).toEqual(notification);
   });
 });
-// Martin Fowler in memory database 
+// Martin Fowler in memory database
