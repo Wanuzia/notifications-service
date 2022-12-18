@@ -15,7 +15,7 @@ implements OnModuleDestroy {
   sasl: {
     mechanism: 'scram-sha-256',
     username: 'c2V0LW1pbmstNTkxMyTLJv9RUO4SSTMa0T6MInzNjdCiXwo5R9xGoGkWKwVJ78c',
-    password: '****',
+    password: '***',
   },
   ssl: true,
             }
